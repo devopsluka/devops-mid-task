@@ -1,0 +1,34 @@
+# Binaries
+main
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Certificates directory (auto-generated, do not commit)
+certs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
